@@ -1,0 +1,2 @@
+This is a test blog project build by ANkit Gupta.
+This project has been build to improve our Ruby on Rails RoR skills.
